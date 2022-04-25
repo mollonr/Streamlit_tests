@@ -4,8 +4,8 @@ import pandas as pd
 import streamlit as st
 
 st.write(""" 
-Rodrigo's stock price app
-prueba de app usando streamlit
+# Rodrigo's stock price app
+### test app using streamlit
  """)
 
 nameTicker = st.text_input("Enter stock ticker", "Type Here ...") 
